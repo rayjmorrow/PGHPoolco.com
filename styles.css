@@ -11,3 +11,4 @@
 .photo img{width:100%;height:100%;object-fit:cover;display:block}
 .photo{background:#d8e7ef}
 .photo span{z-index:2}
+.dedicated-tagline{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#6c8796;margin-top:6px}.footer .dedicated-tagline{color:#c9dce6}
