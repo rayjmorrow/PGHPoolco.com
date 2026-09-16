@@ -5,10 +5,12 @@
 .family a h3,.family a p{position:relative;z-index:1;color:#fff;margin-left:20px;margin-right:20px}
 .family a h3{margin-bottom:4px}
 .family a p{margin-bottom:20px;color:#e9f5fa}
-.family a:nth-child(1){background-image:url('https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=82')}
-.family a:nth-child(2){background-image:url('https://images.unsplash.com/photo-1600334129128-685c5582fd35?auto=format&fit=crop&w=1200&q=82')}
-.family a:nth-child(3){background-image:url('https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=82')}
+.family a:nth-child(1){background-image:url('family-hot-tub.jpg')}
+.family a:nth-child(2){background-image:url('family-sauna.jpg')}
+.family a:nth-child(3){background-image:url('family-cal-flame.jpg')}
 .photo img{width:100%;height:100%;object-fit:cover;display:block}
 .photo{background:#d8e7ef}
 .photo span{z-index:2}
 .dedicated-tagline{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#6c8796;margin-top:6px}.footer .dedicated-tagline{color:#c9dce6}
+.footer-logo-img{height:54px;width:auto;display:block;filter:brightness(0) invert(1)}
+.footer-brand .dedicated-tagline{display:block;margin-top:8px;color:#c9dce6}
