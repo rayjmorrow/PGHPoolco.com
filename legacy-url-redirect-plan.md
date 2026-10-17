@@ -18,12 +18,12 @@ Public search still exposes legacy pages using old phone/address information. Th
 
 ## NAP cleanup
 
-Legacy pages are still publishing phone `412-228-3595` and some third-party citations also expose older numbers/addresses. The new site source uses `412-326-0364` for Pittsburgh Pool Company and the HTFO family showroom addresses:
+Legacy pages are still publishing phone `412-228-3595` and some third-party citations also expose older numbers/addresses. As confirmed by Ray on 2026-10-17, use `412-326-0361` for Pittsburgh Pool Company and the HTFO family showroom addresses:
 
 - 4680 Old William Penn Highway, Suite 205, Monroeville, PA 15146
 - 10269 Perry Highway, Wexford, PA 15090
 
-Before forcing a broad citation update, confirm which phone number is the permanent public pool-sales number and then use the same number consistently across the new website, Google Business Profile, directories and chambers.
+Approved public numbers (Ray, 2026-10-17): `412-326-0361` and `1-888-8-HOTTUB` (`888-846-8882`). Replace all other business contact numbers, including former agency tracking numbers, across websites, Google Business Profiles, directories and chambers. Former tracking numbers no longer route to the business.
 
 ## Deployment requirement
 
